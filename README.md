@@ -2,7 +2,7 @@
 ### Intro
 Galagacv is a game which has been created with the choice of control, using a keyboard or gesture-controlled movement.
 
-Main menu of the game            |  Game process
+Main menu                        |  Game process
 :-------------------------------:|:-------------------------:
 ![](MainMenu.png)                |  ![](GameProcess.png)
 
